@@ -1,2 +1,2 @@
 # calculadoraJS
-Pequeno exercício de JS puro para manipular DOM, atividade prposota pelo nosso professor Marcos da equipe da Digital House.
+Pequeno exercício de JS puro para manipular DOM, atividade proposota pelo nosso professor Marcos da equipe Digital House.
